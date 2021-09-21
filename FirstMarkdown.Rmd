@@ -1,7 +1,7 @@
 ---
-title: "My First Markdown File"
-author: "Ronn Ian I. Visto"
-date: "September 21, 2021"
 output: html_document
-runtime: shiny
 ---
+
+# **Title: "My First Markdown File"**
+# **Author: *Ronn Ian I. Visto* **
+# **Date: *September 21, 2021* **
